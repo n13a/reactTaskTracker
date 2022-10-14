@@ -5,6 +5,8 @@ const Tasks = (props) => {
         <>
             {props.tasks.map(task => 
                 <Task 
+                    remind={task.reminder}
+                    toggle={props.toggle}
                     onDelete={props.onDelete}
                     className="task"
                     id={task.id}
