@@ -25,7 +25,7 @@ body {
   justify-content: center;
   flex-direction: column;
   min-height: 100vh;
-  background-image: url('assests/pexels-alex-conchillos-3648850.jpg');
+  background-image: url('assests/nasa-Q1p7bh3SHj8-unsplash.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 250vh 100vh;
@@ -123,11 +123,12 @@ body {
 }
 
 .form-control-check label {
-  flex: 1;
+  flex: 3;
+  margin: 10px 5px;
 }
 
 .form-control-check input {
-  flex: 2;
+  flex: 1;
   height: 20px;
 }
 
