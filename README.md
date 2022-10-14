@@ -19,7 +19,7 @@ A task tracker application. It includes the react UI as well as JSON-server for 
 npm install
 ```
 
-### Run React dev server (http://localhost:3000)
+### Run React dev server (http://localhost:5173)
 
 ```
 npm run dev
