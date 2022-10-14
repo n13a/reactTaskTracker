@@ -1,16 +1,10 @@
 {
   "tasks": [
     {
-      "text": "dawew",
-      "day": "afa",
-      "reminder": false,
-      "id": 1
-    },
-    {
-      "text": "asdwqe",
-      "day": "fadf",
+      "text": "Buy eggs",
+      "day": "november 5th",
       "reminder": true,
-      "id": 2
+      "id": 1
     }
   ]
 }

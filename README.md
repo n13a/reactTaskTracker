@@ -2,6 +2,8 @@
 
 A task tracker application. It includes the react ui as well as JSON-server for mock backend.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/615px-Vitejs-logo.svg.png?20220412224743">
+
 ## Usage
 
 ### Install dependencies
